@@ -1,0 +1,40 @@
+.main { padding:5px 5px }
+.grey { color:grey }
+.center { text-align:center }
+.right { text-align:right }
+.progress-bar.animate { width: 100%; }
+
+.container-fluid { 
+margin-top:-10px;
+}
+.ml-form {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    text-align:center;
+}
+.ml-pt10 {
+    padding-top:10px;
+}
+.ml-plr10 {
+    padding:0px 10px;
+}
+
+.ml-mt5 {
+    margin-top:5px;
+}
+.clear {
+    clear:both;
+}
+.ml-not {
+    margin-top:0px;
+}
+body {
+    padding-top:10px;
+}
+.form-signin {
+    padding:0 5px;
+}
+.pt-10 {
+    padding-top:10px;
+}
